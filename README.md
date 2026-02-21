@@ -84,3 +84,15 @@ out
     └── tune.mid
 ```
 where `metadata.yaml` contains the arguments of the corresponding run and `tune.mid` is the generated MIDI file.
+
+## Cite us
+
+If you find our work useful, please cite us:
+```bibtex
+@inproceedings{giuliani2023musicomb,
+    title     = {MusiComb: a Sample-based Approach to Music Generation Through Constraints},
+    author    = {Giuliani, Luca and Ballerini, Francesco and De Filippo, Allegra and Borghesi, Andrea},
+    booktitle = {2023 IEEE 35th International Conference on Tools with Artificial Intelligence (ICTAI)},
+    year      = {2023}
+}
+```
